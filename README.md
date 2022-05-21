@@ -15,4 +15,6 @@ Arxiv articles classification model based on transformers.
 * Trained model's stored in repo with Git LFS
 
 **Model as a service**
-* https://huggingface.co/spaces/adaves/distilbert-articles-classification
+
+* Deployed at Huggingface 🤗 with Streamlit
+* Link: https://huggingface.co/spaces/adaves/distilbert-articles-classification
