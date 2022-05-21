@@ -12,6 +12,7 @@ Arxiv articles classification model based on transformers.
 * Fine-tuning GPU: Tesla K80 (Google Colab)
 * Dataset size: 11 088
 * Accuracy on test: 0.74
+* Trained model's stored in repo with Git LFS
 
 **Model as a service**
 * https://huggingface.co/spaces/adaves/distilbert-articles-classification
