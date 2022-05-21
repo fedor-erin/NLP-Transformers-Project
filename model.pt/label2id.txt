@@ -1,0 +1,1 @@
+{'Computer Science': 0, 'Economics': 1, 'Electrical Engineering and Systems Science': 2, 'Mathematics': 3, 'Physics': 4, 'Quantitative Biology': 5, 'Quantitative Finance': 6, 'Statistics': 7}
