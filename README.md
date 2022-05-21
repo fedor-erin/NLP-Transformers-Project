@@ -16,5 +16,5 @@ Arxiv articles classification model based on transformers.
 
 **Model as a service**
 
-* Deployed at Huggingface 🤗 with Streamlit
+* Deployed at Huggingface 🤗 with Streamlit <img width=30px src='https://streamlit.io/images/brand/streamlit-mark-color.svg'>
 * Link: https://huggingface.co/spaces/adaves/distilbert-articles-classification
