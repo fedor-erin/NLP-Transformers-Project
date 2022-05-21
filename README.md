@@ -9,7 +9,7 @@
 Arxiv articles classification model based on transformers.
 
 * Pre-trained model: distilbert
-* Fine-tuning GPU: on Google Colab's Tesla K80.
+* Fine-tuning GPU: Tesla K80 (Google Colab)
 * Dataset size: 11 088
 * Accuracy on test: 0.74
 
