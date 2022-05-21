@@ -1,5 +1,4 @@
-# nlp-transformers-project
-NLP Project for ODS course (Spring'22)
+# NLP Project for ODS course (Spring'22)
 
 * Course: https://ods.ai/tracks/nlp-course-spring-22
 * Participants leaderboard: https://ods.ai/tracks/nlp-course-spring-22/leaderboard (Fedor Erin)
