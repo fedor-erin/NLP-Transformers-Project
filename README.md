@@ -1,7 +1,7 @@
 # NLP Project for ODS course (Spring'22)
 
 * Course: https://ods.ai/tracks/nlp-course-spring-22
-* Participants leaderboard: https://ods.ai/tracks/nlp-course-spring-22/leaderboard (Fedor Erin, 23/506, Top 5%)
+* Participants leaderboard: https://ods.ai/tracks/nlp-course-spring-22/leaderboard (Fedor Erin, 21/507)
 
 **Desctiption**
 
